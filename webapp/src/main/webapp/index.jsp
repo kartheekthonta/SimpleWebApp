@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> KARTHIK PROVIDING MOBILES FOR FREE OF COST </h1>   
+         <h1> KARTHIK PROVIDING MOBILES FOR FREE OF COST AND SUPER OFFER </h1>   
 	 
 
     </section>    
